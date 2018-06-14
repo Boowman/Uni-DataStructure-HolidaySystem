@@ -3,6 +3,8 @@
 This project was part of an assignment in my 3rd year of university were we had to implement multiple data structures within a system.
 I decided to create a holiday ticket system.
 
+Created using Visual Studio Community 2015
+
 ## Class Diagram
 - https://i.imgur.com/CMjsxQQ.png
 
